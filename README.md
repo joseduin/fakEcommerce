@@ -29,28 +29,10 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Captures
 
-## Get a fresh project
+![Captura de pantalla 2024-11-18 035418](https://github.com/user-attachments/assets/9866fbb7-4c40-4de8-be12-8f2ef6506240)
+![Captura de pantalla 2024-11-18 035408](https://github.com/user-attachments/assets/f37c1a4a-b2e7-48c8-85b1-8c23a940c3f0)
+![Captura de pantalla 2024-11-18 035350](https://github.com/user-attachments/assets/fd732d4e-ffd2-4198-b021-6975e98c9a9c)
+![Captura de pantalla 2024-11-18 035326](https://github.com/user-attachments/assets/8e2a91da-88e5-458e-a933-95a91311272a)
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
